@@ -21,7 +21,7 @@
 }
 
 @font-face {
-	font-family: "Circular Std";
+	font-family: "CircularStd";
 	src: url("../fonts/CircularStd-Bold.woff2") format("woff2");
 	font-weight: 700;
 	font-style: normal;
@@ -29,7 +29,7 @@
 }
 
 @font-face { 
-	font-family: "Circular Std";
+	font-family: "CircularStd";
 	src: url("../fonts/CircularStd-Medium.woff2") format("woff2");
 	font-weight: 700;
 	font-style: normal;
@@ -37,7 +37,7 @@
 }
 
 @font-face {
-	font-family: "Circular Std";
+	font-family: "CircularStd";
 	src: url("../fonts/CircularStd-Regular.woff2") format("woff2");
 	font-weight: 700;
 	font-style: normal;
